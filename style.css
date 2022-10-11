@@ -49,3 +49,26 @@
 .skewright {
   transform: matrix(1, 0, -0.176327, 1, 0, 0);
 }
+
+main {
+  width: 80vw;
+  margin: 50px auto;
+  text-align: center;
+}
+
+#carta-texto {
+  width: 65%;
+  height: 20px;
+  border-radius: 6px;
+  border: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.192);
+}
+
+#criar-carta {
+  height: 25px;
+  background-color: green;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-weight: 700;
+}
